@@ -1,5 +1,5 @@
 module.exports = {
-    title: "Nico's Ventures",
+    title: "Nico Estrada",
     description: "Software Developer and Entreprenuer",
     themeConfig: {
         nav: [
@@ -11,31 +11,12 @@ module.exports = {
         sidebar: {
             '/blog/': [
                 '',
-                'mornings',
-            ],
-            '/knowledge/': [
-                '',
-                {
-                    title: 'Books',
-                    collapsable: false,
-                    children: ['books/thus-spoke-zarathustra'],
-                },
-                {
-                    title: 'Miscellaneous',
-                    collapsable: false,
-                    children: [
-                        'Survival'
-                    ],
-                },
             ],
             '/levels/': [
                 '',
-                'business',
-                'life',
-                'leadership',
-                'learning',
-                'tech',
-                'family',
+            ],
+            '/knowledge/': [
+                '',
             ],
         },
         docsDir: 'docs',
