@@ -10,9 +10,11 @@ module.exports = {
         ],
         sidebar: {
             '/blog/': [
+                '',
                 'mornings',
             ],
             '/knowledge/': [
+                '',
                 {
                     title: 'Books',
                     collapsable: false,
@@ -27,6 +29,7 @@ module.exports = {
                 },
             ],
             '/levels/': [
+                '',
                 'business',
                 'life',
                 'leadership',
