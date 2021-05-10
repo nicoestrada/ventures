@@ -1,6 +1,7 @@
 module.exports = {
     title: "Nico Estrada",
     description: "Software Developer and Entreprenuer",
+    serviceWorker: true,
     themeConfig: {
         nav: [
             { text: 'Blog', link: '/blog/' },
@@ -19,7 +20,5 @@ module.exports = {
                 '',
             ],
         },
-        docsDir: 'docs',
-        dest: 'public',
     }
 }
