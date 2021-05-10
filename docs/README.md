@@ -4,7 +4,9 @@
 
 [Levels](/levels/) <br />Mental Models.
 
-[Knowledge](/knowledge/) <br />Personal zettlekasten.
+[Labs](/labs/) <br />Experiments and blueprints.
+
+[Knowledge](/knowledge/) <br />Personal zettlekasten (slip-box).
 
 ## Startups
 
@@ -12,15 +14,8 @@ Pending
 
 ## Projects
 
-[Banks Are Dead](https://banksaredead.com)<br />
-Web3 and DeFi are taking the internet quicker than we can refresh. What will this mean for the future of banks?
+Pending
 
-## Getting updates
+## Find me online
 
-#### Discord
-
-Shoot me a message on Discord: benzday#3861
-
-#### RSS feeds
-
-This blog is just a github repo, so the easiest way to stay updated is to subscribe to the commits.
+[Twitter](https://twitter.com/stradamoney) | [GitHub](https://github.com/nicoestrada) | [LinkedIn](https://www.linkedin.com/in/nicolassebastian/)
