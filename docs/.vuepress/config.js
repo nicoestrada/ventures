@@ -1,5 +1,5 @@
 module.exports = {
-    title: "Nico S. Estrada",
+    title: "Nico Estrada",
     description: "Software Developer and Entreprenuer",
     serviceWorker: true,
     themeConfig: {

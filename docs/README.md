@@ -14,7 +14,8 @@ Pending
 
 ## Projects
 
-Pending
+[QRblend](https://qrblend.com)<br />
+A QR code based management system for establishments.
 
 ## Find me online
 
