@@ -15,6 +15,7 @@ module.exports = {
             ],
             '/levels/': [
                 '',
+                'reach-for-what-is-attainable',
             ],
             '/labs/': [
                 '',
