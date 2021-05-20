@@ -6,7 +6,7 @@
 
 [Labs](/labs/) <br />Experiments and theories.
 
-[Knowledge](/knowledge/) <br />Personal zettlekasten (slip-box).
+[Knowledge](/knowledge/) <br />Open notebook.
 
 ## Startups
 
