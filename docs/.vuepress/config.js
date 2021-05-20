@@ -2,6 +2,11 @@ module.exports = {
     title: "Nico Estrada",
     description: "Software Developer and Entreprenuer",
     serviceWorker: true,
+    plugins: [
+        '@vuepress/last-updated',
+        ['@vuepress/google-analytics', { ga: 'G-R3JY8FSRD9' }],
+        ['@vuepress/search', { searchHotkeys: [] }],
+    ],
     themeConfig: {
         nav: [
             { text: 'Blog', link: '/blog/' },
@@ -25,5 +30,7 @@ module.exports = {
                 '',
             ],
         },
+        docsDir: 'docs',
+        editLinks: true,
     }
 }
