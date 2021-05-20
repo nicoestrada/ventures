@@ -12,6 +12,7 @@ module.exports = {
         sidebar: {
             '/blog/': [
                 '',
+                'finding-a-fit',
             ],
             '/levels/': [
                 '',
