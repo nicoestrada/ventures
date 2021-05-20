@@ -17,6 +17,6 @@ Pending
 [QRblend](https://qrblend.com)<br />
 A QR code based management system for establishments.
 
-## Find me online
-
-[Twitter](https://twitter.com/stradamoney) | [GitHub](https://github.com/nicoestrada) | [LinkedIn](https://www.linkedin.com/in/nicolassebastian/)
+## Web3/Defi Based Projects
+ 
+Pending
