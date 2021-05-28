@@ -18,6 +18,7 @@ module.exports = {
             '/blog/': [
                 '',
                 'finding-a-fit',
+                'decline-of-the-west'
             ],
             '/levels/': [
                 '',
