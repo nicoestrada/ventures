@@ -17,6 +17,6 @@ Pending
 [QRblend](https://qrblend.com)<br />
 A QR code based management system for establishments.
 
-## Web3/Defi Based Projects
+## Web3/Defi Projects
  
 Pending
