@@ -17,6 +17,8 @@ Pending
 [QRblend](https://qrblend.com)<br />
 A QR code based management system for establishments.
 
+[DoberEats](https://dobereats.com)<br />
+
 ## Web3/Defi Projects
- 
+
 Pending

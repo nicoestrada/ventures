@@ -16,6 +16,15 @@
     "vuepress": "^1.8.2"
   },
   "dependencies": {
-    "mermaid": "^8.10.1"
-  }
+    "mermaid": "^8.10.1",
+    "vue": "^2.6.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoestrada/ventures.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nicoestrada/ventures/issues"
+  },
+  "homepage": "https://github.com/nicoestrada/ventures#readme"
 }
