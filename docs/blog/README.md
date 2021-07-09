@@ -4,8 +4,8 @@ sidebar: true
 
 # Blog
 
-Some off-topic explorations, personal opinions, and generally anything that I will regret writing over the passage of time.
+Some off-topic explorations, opinions and substance that I found to be interesting and worth the share.
 
-----
+---
 
 <section-contents />
