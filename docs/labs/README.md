@@ -1,5 +1,5 @@
 ---
-sidebar: true
+sidebar: false
 ---
 
 # Labs
@@ -8,6 +8,6 @@ My "whiteboard" to express my experiments and blueprints I'm currently working o
 
 Use the sidebar to browse.
 
-----
+---
 
 <section-contents />

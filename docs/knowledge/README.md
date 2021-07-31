@@ -1,5 +1,5 @@
 ---
-sidebar: true
+sidebar: false
 ---
 
 # Knowledge
@@ -8,6 +8,6 @@ A repository of personal knowledge that I update from time to time when I find i
 
 Use the sidebar to get started.
 
-----
+---
 
 <section-contents />
