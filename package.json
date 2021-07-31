@@ -7,8 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "docs:dev": "npm run docs:dev",
-    "docs:build": "npm run docs:build"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "author": "",
   "license": "MIT",
