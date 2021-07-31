@@ -18,6 +18,7 @@ Pending
 A QR code based management system for establishments.
 
 [DoberEats](https://dobereats.com)<br />
+Healthy and organic alternative treats for your pups.
 
 ## Web3/Defi
 
