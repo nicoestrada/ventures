@@ -21,4 +21,6 @@ A QR code based management system for establishments.
 
 ## Web3/Defi
 
-Pending
+[NFT Collection]<br />
+I started my own collection of 1,000 unique NFT's. Currently with 8 owners.
+For anonymity purposes, I have decided to leave the link blank for now.
