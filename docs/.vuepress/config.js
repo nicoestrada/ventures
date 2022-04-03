@@ -1,6 +1,6 @@
 module.exports = {
     title: "Nico Estrada",
-    description: "Software Developer and Entreprenuer",
+    description: "Entrepreneur, Co-Founder, Student",
     serviceWorker: true,
     plugins: [
         '@vuepress/last-updated',
