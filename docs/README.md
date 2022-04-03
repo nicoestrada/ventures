@@ -1,4 +1,4 @@
-# Software Developer and Entrepreneur
+# Entrepreneur and Co-Founder
 
 [Blog](/blog/) <br />General writing and opinions.
 
